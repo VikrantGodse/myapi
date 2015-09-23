@@ -2,7 +2,7 @@ import os
 import json
 import dj_database_url
 
-SECRET_KEY = '@@pb_j4kf(4(uh$=3kw6l1lusyw%_p+4ba8u$p94!grmug0dtp'f'
+SECRET_KEY = '@@pb_j4kf(4(uh$=3kw6l1lusyw%_p+4ba8u$p94!grmug0dtp'
 
 DEBUG = False
 
